@@ -2,23 +2,20 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>wordtsar</id>
-    <version>0.1.1977</version>
+    <version>0.3.372</version>
     <packageSourceUrl>https://code.rosaelefanten.org/choco-wordtsar</packageSourceUrl>
     <owners>Cthulhux</owners>
     <title>WordTsar</title>
     <authors>Gerald Brandt</authors>
     <projectUrl>http://wordtsar.ca/</projectUrl>
     <iconUrl>https://i.imgur.com/wSedRMU.png</iconUrl>
-    <copyright>2019, 2020 Gerald Brandt</copyright>
+    <copyright>2019, 2020, 2021 Gerald Brandt</copyright>
     <licenseUrl>https://www.gnu.org/licenses/agpl-3.0.en.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://sourceforge.net/p/wordtsar/mercurial/ci/default/tree/</projectSourceUrl>
     <tags>wordtsar wordstar clone</tags>
     <summary>Wordstar for the 21st Century.</summary>
     <description>WordTsar is a Wordstar 7.0D document mode clone. It loads Wordstar 4, Wordstar 7, and RTF (partial) files, and saves in Wordstar 7 and RTF format.</description>
-    <releaseNotes>* Cleaned up the code a bit by getting rid of uneccesary debug
-* Added preferences dialog for screen color, etc
-* Center, left, right, and justify status indicators now work</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
