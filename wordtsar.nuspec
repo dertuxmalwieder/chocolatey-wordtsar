@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>wordtsar</id>
-    <version>0.3.562</version>
+    <version>0.3.719</version>
     <packageSourceUrl>https://code.rosaelefanten.org/choco-wordtsar</packageSourceUrl>
     <owners>Cthulhux</owners>
     <title>WordTsar</title>

@@ -1,6 +1,6 @@
 ﻿$packageName        = 'WordTsar'
-$url                = "https://sourceforge.net/projects/wordtsar/files/Releases/WordTsar-0.3.562/WordTsar-Windows-0.3-562.zip/download?use_mirror=autoselect"
-$checksum           = "942CA6368AD0063A5B2560044996913129E52D54AFD39F84CB4F5413DFFE3546"
+$url                = "https://sourceforge.net/projects/wordtsar/files/Releases/WordTsar-0.3.719/WordTsar-Windows-0.3.719.zip/download?use_mirror=autoselect"
+$checksum           = "86BA08863B8FFE41CA14995259C93E889119C942AFEDDFDCF889A75633C7EC4E"
 
 $packageArgs = @{
   packageName   = $packageName
